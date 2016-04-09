@@ -9,3 +9,5 @@ We used the Organizational Leadership Assessment (OLA) (Laub, 1999) to determine
 Sarayrah, Yasin Khalaf. (2004). Servant Leadership in the Bedouin-Arab Culture. Global Virtue Ethics Review. 5(3). 58-79.  
 Servant leadership observed in 2 case studies from the Middle East.
 
+Song, Chanhoo; Park, Kwangseo Ryan; Kang, Seung-Wan. (2015). Servant leadership and team performance: The mediating role of knowledge-sharing climate. Social Behavior & Personality. 43(10). 1749-1760.  
+
