@@ -8,6 +8,8 @@ We used the Organizational Leadership Assessment (OLA) (Laub, 1999) to determine
 
 Parolini, Jeanine; Patterson, Kathleen; Winston, Bruce. (2009). Distinguishing between transformational and servant leadership. Leadership & Organization Development Journal. 30(3). 274-291.  
 
+Riverstone, Lori. (2004). Servant leadership: A manifestation of postmaterialism? Global Virtue Ethics Review. 5(3). 95-119.  
+
 Sarayrah, Yasin Khalaf. (2004). Servant Leadership in the Bedouin-Arab Culture. Global Virtue Ethics Review. 5(3). 58-79.  
 Servant leadership observed in 2 case studies from the Middle East.
 
