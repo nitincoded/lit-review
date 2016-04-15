@@ -6,7 +6,15 @@ Berger introduces the topic by citing the need for servant leadership - fixing t
 Cater, John James III. (Oct 2015). Servant Leadership in Multigenerational Family Firms. Journal of Applied Management and Entrepreneurship. 20(4). 25-48.  
 We used the Organizational Leadership Assessment (OLA) (Laub, 1999) to determine if servant leadership was practiced in respondent firms and then employed a qualitative case study approach consisting of in-depth, semistructured interviews to compare servant-led and non-servant-led firms. We outline six important areas for the understanding of servant leadership in family firms. The benefits to family firm leaders who successfully implement servant leadership may include respectful, agreeable, and highly motivated employees as well as increased sustainability of their organizations for future generations of family members. {From Abstract}
 
+Crippen, Carolyn. (2005). Servant-Leadership as an Effective Model for Educational Leadership and Management: first to serve, then to lead. Management in Education. 18(5). 11-16.
+
+Song, Chanhoo; Park, Kwangseo Ryan; Kang, Seung-Wan. (2015). Servant leadership and team performance: The mediating role of knowledge-sharing climate. Social Behavior & Personality: An International Journal. 43(10). 1749-1760.
+
+Meixner, Cara. (2010). Reconciling self, servant leadership, and learning: The Journey to the East as locus for reflection and transformation. Journal of Leadership Studies. 3(4). 81-85.
+
 Parolini, Jeanine; Patterson, Kathleen; Winston, Bruce. (2009). Distinguishing between transformational and servant leadership. Leadership & Organization Development Journal. 30(3). 274-291.  
+
+Rai, Rishabh; Prakash, Anand. (2012). A relational perspective to knowledge creation: Role of servant leadership. Journal of Leadership Studies. 6(2). 61-85.
 
 Riverstone, Lori. (2004). Servant leadership: A manifestation of postmaterialism? Global Virtue Ethics Review. 5(3). 95-119.  
 
