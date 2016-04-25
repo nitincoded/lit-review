@@ -8,6 +8,12 @@ We used the Organizational Leadership Assessment (OLA) (Laub, 1999) to determine
 
 Crippen, Carolyn. (2005). Servant-Leadership as an Effective Model for Educational Leadership and Management: first to serve, then to lead. Management in Education. 18(5). 11-16.
 
+Han, Yong; Kakabadse, Nada K; Kakabadse, Andrew. (2010). Servant leadership in the people's republic of China: A case study of the public sector. The Journal of Management Development. 29(3). 265-281.  
+The paper describes 6 types of servant leadership (putting people first, ethical behavior, morals, conceptual skills, humility, building relationship) and 3 extensions (dutiful, devotion, listening) to servant leadership found in China. Confucianism, Daoism, and Communist Ideology are also compared to servant leadership.
+
+Liu, Bangcheng; Hu, Wei; Cheng, Yen-Chuan. (2015). From the west to the east: Validating servant leadership in the Chinese public sector. Public Personnel Management. 44(1). 25-45.  
+The objective of the study is to determine the relationship between public service motivation and servant leadership in China.
+
 Song, Chanhoo; Park, Kwangseo Ryan; Kang, Seung-Wan. (2015). Servant leadership and team performance: The mediating role of knowledge-sharing climate. Social Behavior & Personality: An International Journal. 43(10). 1749-1760.
 
 Meixner, Cara. (2010). Reconciling self, servant leadership, and learning: The Journey to the East as locus for reflection and transformation. Journal of Leadership Studies. 3(4). 81-85.
