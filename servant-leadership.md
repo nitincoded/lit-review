@@ -14,6 +14,9 @@ The paper describes 6 types of servant leadership (putting people first, ethical
 Liu, Bangcheng; Hu, Wei; Cheng, Yen-Chuan. (2015). From the west to the east: Validating servant leadership in the Chinese public sector. Public Personnel Management. 44(1). 25-45.  
 The objective of the study is to determine the relationship between public service motivation and servant leadership in China.
 
+Sarayrah, Yasin Khalaf. (2004). Servant leadership in the Bedouin-Arab culture. 5(3). 58-79.  
+The servant leadership behavior of two leaders from the Bedouin community in the Middle East was cited.
+
 Song, Chanhoo; Park, Kwangseo Ryan; Kang, Seung-Wan. (2015). Servant leadership and team performance: The mediating role of knowledge-sharing climate. Social Behavior & Personality: An International Journal. 43(10). 1749-1760.
 
 Meixner, Cara. (2010). Reconciling self, servant leadership, and learning: The Journey to the East as locus for reflection and transformation. Journal of Leadership Studies. 3(4). 81-85.
