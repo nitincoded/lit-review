@@ -1,3 +1,5 @@
+10 constructs of servant leadership: Listening, Empathy, Healing Relationships, Awareness, Persuasion, Conceptualization, Foresight, Stewardship, Commitment to growth of all, Building community
+
 # Servant Leadership
 
 Berger, Travis A. (Fall 2014). Servant Leadership 2.0: A Call for Strong Theory. Sociological Viewpoints. 30(1). 146-167.  
