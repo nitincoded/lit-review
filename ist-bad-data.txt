@@ -46,3 +46,7 @@ The International Journal of Life Cycle Assessment 17.4 (May 2012): 499-503.
 Critical Success Factors for Implementing Data Profiling: The First Step Toward Data Quality
 Mahanti, Rupa. 
 Software Quality Professional 16.2 (Mar 2014): 13-26.
+
+Master data quality barriers: an empirical investigation
+Haug, AndersView Profile; Arlbjørn, Jan StentoftView Profile; Zachariassen, FrederikView Profile; Schlichter, Jakob. 
+Industrial Management & Data Systems 113.2 (2013): 234-249.
