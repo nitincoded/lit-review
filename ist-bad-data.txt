@@ -48,9 +48,13 @@ Mahanti, Rupa.
 Software Quality Professional 16.2 (Mar 2014): 13-26.
 
 Master data quality barriers: an empirical investigation
-Haug, AndersView Profile; Arlbjørn, Jan StentoftView Profile; Zachariassen, FrederikView Profile; Schlichter, Jakob. 
+Haug, AndersView Profile; Arlbjørn, Jan Stentoft; Zachariassen, FrederikView Profile; Schlichter, Jakob. 
 Industrial Management & Data Systems 113.2 (2013): 234-249.
 
 The impact of experience and time on the use of data quality information in decision making
 Fisher, Craig W; Chengalur-Smith, InduShobha; Ballou, Donald P. 
 Information Systems Research 14.2 (Jun 2003): 170.
+
+Barriers to master data quality
+Haug, AndersView Profile; Arlbjørn, Jan Stentoft
+Journal of Enterprise Information Management 24.3 (2011): 288-303.
