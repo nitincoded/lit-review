@@ -13,3 +13,31 @@ Industrial Management and Data Systems. 2002
 Managing Dirty Data in Organizations Using ERP: Lessons from a case study.
 Vasburg, Jodi; Kumar, Anil.
 Industrial Management and Data Systems. 2001
+
+Drowning in dirty data? It’s time to sink or swim: A four-stage methodology for total data quality management
+Richard Marsh
+Database Marketing & Customer Strategy Management Vol. 12, 2, 105–112
+
+A Taxonomy of Dirty Data
+Kim, Won; Byoung-Ju Choi; Eui-Kyeong Hong; Soo-Kyung, Kim; Lee, Doheon
+Data Mining and Knowledge Discovery 7.1 (Jan 2003): 81-99.
+
+Real-world Data is Dirty: Data Cleansing and The Merge/Purge Problem
+Hernández, Mauricio A; Stolfo, Salvatore J
+Data Mining and Knowledge Discovery 2.1 (Jan 1998): 9-37.
+
+Beyond accuracy: What data quality means to data consumers
+Wang, Richard Y; Strong, Diane M. 
+Journal of Management Information Systems 12.4 (Spring 1996): 5.
+
+Data quality is everyone's business -- Managing information quality -- Part 2
+Breur, Tom. 
+Journal of Direct, Data and Digital Marketing Practice 11.2 (Oct-Dec 2009): 114-123.
+
+Commentary on issues in data quality analysis in life cycle assessment
+Cooper, Joyce Smith; Kahn, Ezra. 
+The International Journal of Life Cycle Assessment 17.4 (May 2012): 499-503.
+
+Critical Success Factors for Implementing Data Profiling: The First Step Toward Data Quality
+Mahanti, Rupa. 
+Software Quality Professional 16.2 (Mar 2014): 13-26.
