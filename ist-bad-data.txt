@@ -1,0 +1,15 @@
+ERP Implementation Issues in SMEs: 'Microsoft Great Plains' Implementation in a BPO Organization
+Babu, T K Suresh;Dalal, Satish S
+South Asian Journal of Management; Jan-Mar 2006; 13, 1
+
+ERP system fit – an explorative task and data quality perspective
+Paul Glowalla and Ali Sunyaev
+Journal of Enterprise Information Management Vol. 27 No. 5, 2014 pp. 668-686
+
+Data quality issues in implementing an ERP.
+Xu, Hongjiang; Jeretta Horn Nord; Brown, Noel; Nord, G. Daryle.
+Industrial Management and Data Systems. 2002
+
+Managing Dirty Data in Organizations Using ERP: Lessons from a case study.
+Vasburg, Jodi; Kumar, Anil.
+Industrial Management and Data Systems. 2001
