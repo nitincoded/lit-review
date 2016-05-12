@@ -1,3 +1,8 @@
+Notes:
+* Exclude data quality issues in Electronic Healthcare Record and Clinical Systems
+
+
+
 ERP Implementation Issues in SMEs: 'Microsoft Great Plains' Implementation in a BPO Organization
 Babu, T K Suresh;Dalal, Satish S
 South Asian Journal of Management; Jan-Mar 2006; 13, 1
