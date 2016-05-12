@@ -58,3 +58,44 @@ Information Systems Research 14.2 (Jun 2003): 170.
 Barriers to master data quality
 Haug, AndersView Profile; Arlbjørn, Jan Stentoft
 Journal of Enterprise Information Management 24.3 (2011): 288-303.
+
+Data Quality Assessment
+Mahanti, Rupa. 
+Software Quality Professional 16.3 (Jun 2014): 40-42.
+
+Data, Data Quality, and Ethical Use
+Howles, Trudy
+Software Quality Professional 16.2(Mar 2014): 4-12.
+
+Enterprise Data Quality: A Pragmatic Approach
+Umar, AmjadView Profile; Karabatis, GeorgeView Profile; Linda Ness and Bruce Horowitz; Elmagardmid, Ahmed. 
+Information Systems Frontiers1.3 (Oct 1999): 279-301.
+
+Measuring Data Quality for Ongoing Improvement: A Data Quality Assessment Framework
+Mahanti, Rupa. 
+Software Quality Professional 17.2 (Mar 2015): 36-37.
+
+Invisible data quality issues in a CRM implementation
+Reid, AndreaView Profile; Catterall, Miriam
+Journal of Database Marketing & Customer Strategy Management 12.4(Jul 2005): 305-314.
+
+Data Quality Indicators Composition and Calculus: Engineering and Information Systems Approaches
+Reznik, LeonView Profile; Lyshevski, Sergey EdwardView Profile. 
+Sensors & Transducers 185.2 (Feb 2015): 140-148.
+
+The whole truth and nothing but the truth? The role of data quality today
+Scarisbrick-Hauser, AnneMarie; Rouse, Christina. 
+Direct Marketing 1.3 (2007): 161-171.
+
+Data quality is everyone's business -- Designing quality into your data warehouse -- Part 1
+Breur, Tom. 
+Journal of Direct, Data and Digital Marketing Practice 11.1 (Jul-Sep 2009): 20-29.
+
+An Investigation of the Impact of Organization Size on Data Quality Issues
+Nord, G DarylView Profile; Jeretta Horn NordView Profile; Xu, HongjiangView Profile. 
+Journal of Database Management 16.3 (Jul-Sep 2005): 58-71.
+
+Improve Data Quality for Competitive Advantage
+Redman, Thomas CView Profile. 
+Sloan Management Review 36.2(Winter 1995): 99.
+
