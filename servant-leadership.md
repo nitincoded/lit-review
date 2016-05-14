@@ -34,3 +34,8 @@ Sarayrah, Yasin Khalaf. (2004). Servant leadership in the Bedouin-Arab culture. 
 The servant leadership behavior of two leaders from the Bedouin community in the Middle East was cited.
 
 Song, Chanhoo; Park, Kwangseo Ryan; Kang, Seung-Wan. (2015). Servant leadership and team performance: The mediating role of knowledge-sharing climate. Social Behavior & Personality: An International Journal. 43(10). 1749-1760.
+
+#He-said-she-said
+
+Graham (1991) distinguishes between servant leadership and transformational leadership by stating that servant leaders work toward the betterment of the followers and may, in addition, pursue organizational goals whereas the focus of transformational leaders is on organizational goals.  
+Graham, J.W. (1991), "Servant leadership in organizations: inspirational and moral", Leadership Quarterly, Vol. 2 No. 2, pp. 105-119. via Transcending the power of hierarchy to facilitate shared leadership. Barnes, Barry; Humphreys, John HView Profile; Oyler, Jennifer D; Pane Haden, Stephanie S; Novicevic, Milorad M. Leadership & Organization Development Journal. 34.8(2013): 741-762.
